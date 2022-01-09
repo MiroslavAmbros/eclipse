@@ -1,0 +1,29 @@
+package edunova;
+
+public class E01_UvjetnoGranjanjeIf {
+	
+	public static void main(String[] args) {
+		
+		int i=7;
+		boolean uvjet = i<7;
+				if (uvjet) {
+					System.out.println("ok");
+				}
+	
+	if (i<=7) {
+		System.out.println("ok 2");
+	}
+	
+	if (i<7) {
+		System.out.println("ok 3");
+	}else {
+		System.out.println("ok 4");
+	
+	}
+	if(i==7)
+		System.out.println("ok 5");
+	
+	int j=0 k=1
+	}
+	
+}

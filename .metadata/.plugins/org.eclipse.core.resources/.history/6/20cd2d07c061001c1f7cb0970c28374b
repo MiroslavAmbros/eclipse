@@ -1,0 +1,9 @@
+package edunova;
+
+public class E01_JednodimenzionalniNiz {
+public static void main(String[] args) {
+	int[] temperature = new int[12];
+	
+temperature.
+}
+}
