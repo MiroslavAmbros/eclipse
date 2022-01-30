@@ -1,9 +1,0 @@
-package edunova;
-
-public class Z01 {
-	public static void main(String[] args) {
-		
-		int[] niz = new int[3];
-	}
-
-}
